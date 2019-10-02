@@ -1,0 +1,252 @@
+[
+  {
+    "name": "alabama",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "alaska",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "arizona",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "arkansas",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "california",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "colorado",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "connecticut",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "delaware",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "florida",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "georgia",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "hawaii",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "idaho",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "illinois",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "indiana",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "iowa",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "kansas",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "kentucky",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "louisiana",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "maine",
+    "p": false,
+    "d": true,
+  },
+  {
+    "name": "maryland",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "massachusetts",
+    "p": false,
+    "d": true,
+  },
+  {
+    "name": "michigan",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "minnesota",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "mississippi",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "missouri",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "montana",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "nebraska",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "nevada",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "new hampshire",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "new jersey",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "new mexico",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "new york",
+    "p": false,
+    "d": true,
+  },
+  {
+    "name": "north carolina",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "north dakota",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "ohio",
+    "p": false,
+    "d": true,
+  },
+  {
+    "name": "oklahoma",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "oregon",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "pennsylvania",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "rhode island",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "south carolina",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "south dakota",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "tennessee",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "texas",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "utah",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "vermont",
+    "p": true,
+    "d": false,
+  },
+  {
+    "name": "virginia",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "washington",
+    "p": false,
+    "d": false,
+  },
+  {
+    "name": "west virginia",
+    "p": false,
+    "d": true,
+  },
+  {
+    "name": "wisconsin",
+    "p": true,
+    "d": true,
+  },
+  {
+    "name": "wyoming",
+    "p": true,
+    "d": true,
+  }
+]
