@@ -1,7 +1,7 @@
 [
   {
     "name": "alabama",
-    "p": false,
+    "p": true,
     "d": false,
   },
   {
@@ -22,7 +22,7 @@
   {
     "name": "california",
     "p": true,
-    "d": false,
+    "d": true,
   },
   {
     "name": "colorado",
@@ -33,6 +33,11 @@
     "name": "connecticut",
     "p": true,
     "d": true,
+  },
+  {
+    "name": "dc",
+    "p": true,
+    "d": false,
   },
   {
     "name": "delaware",
@@ -111,13 +116,13 @@
   },
   {
     "name": "minnesota",
-    "p": false,
+    "p": true,
     "d": false,
   },
   {
     "name": "mississippi",
     "p": true,
-    "d": false,
+    "d": true,
   },
   {
     "name": "missouri",
@@ -171,13 +176,13 @@
   },
   {
     "name": "ohio",
-    "p": false,
+    "p": true,
     "d": true,
   },
   {
     "name": "oklahoma",
     "p": true,
-    "d": false,
+    "d": true,
   },
   {
     "name": "oregon",
@@ -186,8 +191,8 @@
   },
   {
     "name": "pennsylvania",
-    "p": false,
-    "d": false,
+    "p": true,
+    "d": true,
   },
   {
     "name": "rhode island",
@@ -222,7 +227,7 @@
   {
     "name": "vermont",
     "p": true,
-    "d": false,
+    "d": true,
   },
   {
     "name": "virginia",
@@ -231,12 +236,12 @@
   },
   {
     "name": "washington",
-    "p": false,
+    "p": true,
     "d": false,
   },
   {
     "name": "west virginia",
-    "p": false,
+    "p": true,
     "d": true,
   },
   {
